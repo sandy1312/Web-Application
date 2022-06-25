@@ -22,6 +22,8 @@ users can be managed.
 When I was making this project, I wanted to add the authentication system by this only
 authorized user can come in application. For this Django has features i.e., Django auth
 from that I add the login system and register system and I connect with databases.
+
+
 **BENEFITS OF PROJECT**
 
 
